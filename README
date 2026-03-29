@@ -20,3 +20,12 @@ Copyright years on GCC source files may be listed using range
 notation, e.g., 1987-2012, indicating that every year in the range,
 inclusive, is a copyrightable year that could otherwise be listed
 individually.
+
+
+WARN
+====
+
+This code is NOT the official `GNU gcc` code. If you want to view and obtain 
+the official `GNU gcc` code, you need to go to the repository: https://github.com/gcc-mirror/gcc
+
+This is a fork of `GNU gcc` where the code is optimized.
